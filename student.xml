@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="empstyle.css"?>
+
+    <student>
+        <name>ABI</name>
+        <age>22</age>
+        <subject>science</subject>
+        <gender>female</gender>
+    </student>

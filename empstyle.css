@@ -1,0 +1,10 @@
+student{
+    background-color:pink;
+}
+
+name, age, subject, gender{
+    font-size:25px;
+    display:block;
+    color:blue;
+    margin-left:50px;
+}
